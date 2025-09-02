@@ -1,0 +1,76 @@
+
+body {
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: rgb(190, 179, 111);
+    height: 100px;
+    width: 700px;
+    text-align: center;
+    justify-content: center;
+    word-spacing: 0.1cm;
+    font-style: oblique;
+}
+
+#navig {
+    background-color: rgb(87, 82, 56);
+    height: 70px;
+    text-align: center;
+    justify-content: baseline;
+    width: 700px;
+}
+
+.nav {
+    height: 70px;
+    width: 100px;
+    background-color: white;
+
+}
+
+#service {
+    background-color: rgb(99, 89, 89);
+    color: rgb(0, 0, 0);
+}
+
+#about {
+     background-color: rgb(99, 89, 89);
+    color: rgb(0, 0, 0);
+}
+
+#form {
+    background-color: rgb(216, 202, 202);
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+input{
+    border-radius: 20px;
+    line-height: 40px;
+    height: 40px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    line-height: 40px;
+    margin: 10px 0px;
+    width: 100px;
+}
+
+
+#signup{
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    line-height: 40px;
+
+}
+
+
